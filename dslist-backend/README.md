@@ -24,7 +24,8 @@ https://www.youtube.com/@DevsuperiorJavaSpring
 | Terça-feira 20h30  | Aula 2: Domínio e consultas |
 | Quarta-feira 20h30 | Aula 3: Deploy e CORS |
 | Quinta-feira 20h30 | Aula 4: Endpoint especial |
-| Sexta-feira 20h30 | Aula 5: Resumão e reforço do aprendizado
+| Sexta-feira 20h30 | Aula 5: Resumão e reforço do aprendizado |
+| Domingo 16h00 | Oficina: Avançando na modelagem de dados  |
 
 ## Modelo de domínio DSList
 
